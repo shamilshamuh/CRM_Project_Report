@@ -44,5 +44,6 @@ Lost deal rates vary by industry, with Construction and Engineering showing high
 This summary captures the essential aspects of your dataset and project insights for professional presentation on GitHub or a portfolio. Let me know if you want it more concise or expanded!
 
 
-# Visualization Report
-https://github.com/shamilshamuh/CRM_Project_Report/blob/main/CRM_Project.pdf
+# Dashboard
+[Download the Project PDF](https://github.com/shamilshamuh/CRM_Project_Report/blob/main/CRM_Project.pdf)
+
